@@ -75,7 +75,7 @@ The models were evaluated on the independent held-out test set of 367 images:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/Waste-Classification-EfficientNet.git
+git clone https://github.com/Efxn-spec/Waste-Classification-EfficientNet.git
 cd Waste-Classification-EfficientNet
 
 # Install required dependencies
