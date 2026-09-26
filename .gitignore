@@ -1,0 +1,12 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.mp4
+*.zip
+
+# OS & Editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
