@@ -113,3 +113,5 @@ jupyter notebook garbage_classification_project.ipynb
 - **Ahmad Irfan Johan Bin Mazlan**
 - Faculty of Artificial Intelligence, Universiti Teknologi Malaysia (UTM)
 - Course: SAIA 2133 Computer Vision
+- 💼 LinkedIn: [ahmad-irfan-johan-bin-mazlan](https://www.linkedin.com/in/ahmad-irfan-johan-bin-mazlan-5b583a377)
+- 📧 Email: [irfanjohan990@gmail.com](mailto:irfanjohan990@gmail.com)
